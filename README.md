@@ -4,5 +4,5 @@ Repo for BioInfo Class 2023 PPgCF
 
 ## Students
 
-blablabla
+Ian
 
