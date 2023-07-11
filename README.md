@@ -6,11 +6,3 @@ Repo for BioInfo Class 2023 PPgCF
 
 blablabla
 
-Teste ian -> test
-
-
--> s
-
--> s
-
--> n
